@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_001.jpg,640,480,dog,151,121,577,346
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_002.jpg,640,480,dog,116,148,428,313
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_003.jpg,640,480,dog,1,1,338,225
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_004.jpg,640,480,dog,162,90,395,392
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_005.jpg,640,480,dog,127,72,460,450
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_006.jpg,640,480,dog,128,15,440,435
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_007.jpg,640,480,dog,119,98,446,311
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_008.jpg,640,480,dog,123,77,472,268
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_009.jpg,640,480,dog,164,119,404,292
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_010.jpg,640,480,dog,158,98,567,360
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_011.jpg,640,480,dog,244,177,640,382
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_012.jpg,640,480,dog,201,134,631,446
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_013.jpg,640,480,dog,206,67,486,327
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_014.jpg,640,480,dog,166,1,319,349
+D:/Machine_Learning_Projects_and_tools/dog_detection/dog_dataset/test/dog_015.jpg,640,480,dog,207,105,518,388
